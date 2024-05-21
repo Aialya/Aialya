@@ -1,6 +1,4 @@
-- Hi, I’m Juliette, but you can call me Arya!
-- I created a GitHub account mostly to mess with discord integrations and learn more about coding.
-- I thought I might as well have a solid platform for that haha
+Game art student with either too much or no energy, never any in between
 
 <!---
 Aialya/Aialya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
