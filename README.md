@@ -1,4 +1,4 @@
-Game art student with either too much or no energy, never any in between
+Game art student :v:
 
 <!---
 Aialya/Aialya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
